@@ -1,4 +1,0 @@
-- name: Test coverage
-  run: |
-    pip install pytest-cov
-    pytest --cov=app tests/
